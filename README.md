@@ -1,6 +1,6 @@
 # pomegranate-ng2-spa
 
-source code for rafszul.github.io
+this is a clone source code for rafszul.github.io
 
 this incarnation is an [angular2](https://angular.io/) app built on [syntaticly awesome](http://sass-lang.com/) [foundation](http://foundation.zurb.com/sites.html) and structured as prescribed by [angular style guide](https://angular.io/docs/ts/latest/guide/style-guide.html#) 
 
