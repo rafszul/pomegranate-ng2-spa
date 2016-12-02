@@ -1,4 +1,4 @@
-# rafszul-NG2
+# pomegranate-ng2-spa
 
 source code for rafszul.github.io
 
@@ -14,7 +14,7 @@ featuring all that stuff that comes with every [angular-cli](https://cli.angular
 - [karma](https://karma-runner.github.io/1.0/index.html),
 - [istanbul](https://istanbul.js.org/) for coverage and 
 - [protractor](http://www.protractortest.org/#) for e2e tests and
-- loads of other stuff. check out [package.json](https://github.com/rafszul/rafszul-ng2/blob/master/package.json) to get the idea about all that's in.
+- loads of other stuff. check out [package.json](https://github.com/rafszul/pomegranate-ng2-spa/blob/master/package.json) to get the idea about all that's in.
 
 ---
 
